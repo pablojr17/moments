@@ -1,5 +1,9 @@
 # Moments
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47211806/214126963-8ed4e575-da8d-471d-b6a7-7b7a35cf5850.gif"/>
+</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
